@@ -28,9 +28,9 @@
     "zero-dependency"
   ],
   "license": "Apache-2.0",
-  "homepage": "https://github.com/vextjs/cacheHub#readme",
+  "homepage": "https://github.com/devcodex-labs/cacheHub#readme",
   "bugs": {
-    "url": "https://github.com/vextjs/cacheHub/issues"
+    "url": "https://github.com/devcodex-labs/cacheHub/issues"
   },
   "sideEffects": false,
   "exports": {
@@ -101,7 +101,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vextjs/cacheHub.git"
+    "url": "git+https://github.com/devcodex-labs/cacheHub.git"
   },
   "peerDependencies": {
     "ioredis": ">=5.0.0"
